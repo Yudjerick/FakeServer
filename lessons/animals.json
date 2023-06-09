@@ -1,1 +1,1 @@
-{"description":"тестовый урок","id":"animals","isCompleted":true,"tasks":[{"additionalVariants":["duck","cat","goose"],"answer":["dog"],"translatedPhrase":"собака"}],"title":"animals"}
+{"description":"тестовый урок","id":"animals","isCompleted":false,"tasks":[{"additionalVariants":["duck","cat","goose"],"answer":["dog"],"translatedPhrase":"собака"}],"title":"animals"}
